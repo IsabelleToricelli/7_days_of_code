@@ -1,7 +1,7 @@
 # OptimusTech- Página de Vagas
 
 Este projeto é um site de vagas de emprego, coordenado pela empressa OptimusTech desenvolvido com HTML e CSS.
-! [image](assets/imagem_projeto.png)
+
 ## Sobre o Projeto
 
 A págia exibe informações sobre a empressa, sua cultura e as vagas disponíveis. O objetivo é criar uma interface limpa e responsiva para facilitar a navegação dos usuários interessados em oportunidades de emprego.
