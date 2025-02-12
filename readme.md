@@ -1,4 +1,4 @@
-#OptimusTech- Página de Vagas
+# OptimusTech- Página de Vagas
 
 Este projeto é um site de vagas de emprego, coordenado pela empressa OptimusTech desenvolvido com HTML e CSS.
 ![image](assets/optimustech-imagem_projeto)
